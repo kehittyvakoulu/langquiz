@@ -1,0 +1,83 @@
+body{
+  background-color: #BBB;
+}
+
+.alue_valikko {
+  display: block;
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  width: 88%;
+  height: 18%;
+  background-color: #AAA;
+  border: 1px solid #777;
+  padding: 1%;
+  text-align: center;
+}
+
+#tiedosto {
+  margin: 1%;
+  font-size:20px;
+  background-color: #777;
+  color: #CCC;
+}
+
+input[type="checkbox"] {
+  display:none;
+}
+
+input[type="checkbox"] + label span {
+  display:inline-block;
+  width:19px;
+  height:19px;
+  margin:-1px 4px 0 0;
+  vertical-align:middle;
+  background:url(check_radio_sheet.png) left top no-repeat;
+  cursor:pointer;
+}
+
+input[type="checkbox"]:checked + label span {
+  background:url(check_radio_sheet.png) -19px top no-repeat;
+}
+
+.label {
+  font-size: 15px;
+  color: #777;
+}
+
+.alue_vastaus {
+  display: block;
+  position: absolute;
+  top: 30%;
+  left: 5%;
+  width: 88%;
+  height: 63%;
+  background-color: #AAA;
+  border: 1px solid #777;
+  padding: 1%;
+  text-align: center;
+}
+
+#kysymys {
+  margin: 1%;
+  font-size: 30px;
+  color: #777;
+}
+
+.vastaus {
+  color: #777;
+  margin: 1%;
+}
+
+#vastaus {
+  font-size:20px;
+  background-color: #777;
+  color: #CCC;
+  width:50%;
+}
+
+#palaute {
+  margin: 1%;
+  font-size: 30px;
+  color: #777;
+}

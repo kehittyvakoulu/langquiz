@@ -1,0 +1,38 @@
+Kul att träffas!|Hauska tavata!
+Tjena!|Terve!
+jag|minä
+jag heter|minun nimeni on
+men|mutta
+jag kallas|minua kutsutaan
+jag är|minä olen
+tretton|kolmetoista
+år|vuosi
+gammal|vanha
+Jag går i Oxhamns skola.|Minä käyn Oxhamnin koulua.
+i sjunde klass|seitsemännellä luokalla
+Tjänare!|Terve!
+mitt namn|minun nimeni
+och|ja
+också|myös
+i samma klass som|samalla luokalla kuin
+Hej!|Hei!
+elva|yksitoista
+i femman|viidennellä luokalla
+i Lagmans skola|Lagmanin koulua
+Hejsan!|Hei! Moi!
+tolv|kaksitoista
+i sjuan|seitsemännellä luokalla
+bor|asuvat, asuu
+i Finland|Suomessa
+i Jakobstad|Pietarsaaressa
+i Sverige|Ruotsissa
+i Stockholm|Tukholmassa
+Vad heter du?|Mikä sinun nimesi on?
+Vad kallas du?|Miksi sinua kutsutaan?
+Hur gammal är du?|Kuinka vanha olet?
+Var bor du?|Missä sinä asut?
+Vliken skola går du i?|Mitä koulua sinä käyt?
+Vilken klass går du i?|Millä luokalla sinä olet?
+svensk|ruotsalainen
+talar|puhuu
+läser|lukee, opiskelee

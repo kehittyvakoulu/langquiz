@@ -1,0 +1,52 @@
+Familjefoton|Perhekuvia
+just nu|juuri nyt
+hälsa på, hälsar på|olla kylässä
+hans|hänen (pojasta)
+kusiner|serkut
+en kusin, kusinen|serkku
+hennes|hänen (tytöstä)
+en pappa, pappan|isä
+en farmor|isoäiti (isänäiti)
+en farfar|isoisä (isänisä)
+alltså|siis
+en mormor|isoäiti (äidinäiti)
+ett morfar|isoisä (äidinisä)
+med|prepositio: kanssa
+en mamma, mamman|äiti
+en man, mannen|mies, aviomies
+han|hän (pojasta)
+sjyst|reilu
+utan|vaan
+två barn|kaksi lasta
+ett barn, barnet|lapsi
+tvillingarna|kaksoset
+Krångligt, va!|Mutkikasta, eikö vain?
+ett släktträd, släkträdet|sukupuu
+en mamma, mammor|äiti, äidit
+en styvmamma, styvmammor|äitipuoli, äitipuolet
+en pappa, pappor|isä, isät
+en styvpappa, styvpappor|isäpuoli, isäpuolet
+föräldrar|vanhemmat
+en syster, systrar|sisko, siskot
+en lillasyster, småsystrar|pikkusisko, pikkusiskot
+en storsyster, storsystrar|isosisko, isosiskot
+en halvsyster, halvsystrar|siskopuoli, siskopuolet
+en bror, bröder|veli, veljet
+en lillebror, småbröder|pikkuveli, pikkuveljet
+en storebror, storebröder|isoveli, isoveljet
+ett syskon, syskon|sisarus, sisarukset
+ett halvsyskon, halvsyskon|sisarpuoli, sisarpuolet
+morföräldrar|isovanhemmat (äidin vanhemmat)
+farföräldrar|isovanhemmat (isän vanhemmat)
+en tjej, tjejer|tyttö, tytöt
+på tolv år|12-vuotias
+söka, söker|etsiä
+brevvänner|kirjeystävät
+ålder|ikä
+en kille, killar|poika, pojat
+spelar ingen roll|ei ole merkitystä
+brevpolare|kirjekaverit
+både - och|sekä - että
+intressen|harrastukset
+nätet|internet, netti
+variera, varierar|vaihdella
